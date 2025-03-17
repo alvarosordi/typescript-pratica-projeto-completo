@@ -4,3 +4,4 @@ import "./types/FormatoData.js";
 import "./types/TipoTransacao.js";
 import "./types/Transacao.js";
 import "./utils/formatters.js";
+import "./components/data-component.js";
